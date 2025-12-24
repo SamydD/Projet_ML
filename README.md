@@ -82,13 +82,14 @@ Tree-based models and ensemble methods achieved the best performance.
 
 ## Repository structure
 
-├── TaiwanBankruptcy.ipynb # Main analysis notebook
-├── code_snippets.ipynb # Utility and experimentation code
-├── data.csv # Dataset
-├── presentation/ # Slides and final report
-│ ├── ml-finance-project-presentation.pdf
-│ ├── ml-finance-project-report.pdf
-│ └── README.md
+.
+├── TaiwanBankruptcy.ipynb      # Main analysis notebook
+├── code_snippets.ipynb         # Utility and experimentation code
+├── data.csv                    # Dataset
+├── presentation/               # Slides and final report
+│   ├── ml-finance-project-presentation.pdf
+│   ├── ml-finance-project-report.pdf
+│   └── README.md
 └── README.md
 
 
